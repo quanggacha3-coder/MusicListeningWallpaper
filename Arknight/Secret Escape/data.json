@@ -8,14 +8,14 @@
       "ja": "inoriac",
       "ko": "inoriac"
     },
-    "musicFile": "music/Secret Escape.",
+    "musicFile": "music/01. 塞壬唱片-MSR - Secret Escape.flac",
     "coverImage": "cover/Remember.png",
     "default": true,
     "default_bg": 2,
     "mv": "mv/Remember.webm",
     "subtitle": {
-      "ja": "subtitle/Remember_ja.srt",
-      "ko": "subtitle/Remember_ko.srt"
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
     }
   }
 ]
