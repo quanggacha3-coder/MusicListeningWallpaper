@@ -1,1 +1,21 @@
-
+[
+  {
+    "title": {
+      "ja": "Secret Escape",
+      "ko": "Secret Escape"
+    },
+    "artist": {
+      "ja": "inoriac",
+      "ko": "inoriac"
+    },
+    "musicFile": "music/Secret Escape.",
+    "coverImage": "cover/Remember.png",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Remember.webm",
+    "subtitle": {
+      "ja": "subtitle/Remember_ja.srt",
+      "ko": "subtitle/Remember_ko.srt"
+    }
+  }
+]
