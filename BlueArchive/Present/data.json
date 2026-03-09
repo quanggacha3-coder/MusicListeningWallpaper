@@ -1,14 +1,14 @@
 [
   {
     "title": {
-      "ja": "Secret Escape",
-      "ko": "Secret Escape"
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
     },
     "artist": {
-      "ja": "inoriac",
-      "ko": "inoriac"
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
     },
-    "musicFile": "music/01. 塞壬唱片-MSR - Secret Escape.flac",
+    "musicFile": "music/01.『タイトルコール』.mp3",
     "coverImage": "cover/secret_escape.jpg",
     "default": true,
     "default_bg": 2,
@@ -16,6 +16,6 @@
     "subtitle": {
       "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
       "ko": ""
-    }
+    },
   }
 ]
