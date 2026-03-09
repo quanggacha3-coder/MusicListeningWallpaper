@@ -1,8 +1,8 @@
 [
   {
     "title": {
-      "ja": "Secret Escape",
-      "ko": "Secret Escape"
+      "ja": "塞壬唱片-MSR - Secret Escape",
+      "ko": "塞壬唱片-MSR - Secret Escape"
     },
     "artist": {
       "ja": "inoriac",
@@ -14,26 +14,26 @@
     "default_bg": 2,
     "mv": "mv/Secret_Escape.webm",
     "subtitle": {
-      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.srt",
       "ko": ""
     }
   },
   {
     "title": {
-      "ja": "Secret Escape",
-      "ko": "Secret Escape"
+      "ja": "02. 塞壬唱片-MSR - Secret Escape (Instrumental)",
+      "ko": "02. 塞壬唱片-MSR - Secret Escape (Instrumental)"
     },
     "artist": {
       "ja": "inoriac",
       "ko": "inoriac"
     },
-    "musicFile": "music/Secret Escape.flac",
+    "musicFile": "music/02. 塞壬唱片-MSR - Secret Escape (Instrumental).flac",
     "coverImage": "cover/secret_escape.jpg",
     "default": true,
     "default_bg": 2,
     "mv": "mv/Secret_Escape.webm",
     "subtitle": {
-      "ja": "subtitle/Secret Escape.srt",
+      "ja": "",
       "ko": ""
     }
   },
@@ -43,16 +43,16 @@
       "ko": "Secret Escape"
     },
     "artist": {
-      "ja": "inoriac",
-      "ko": "inoriac"
+      "ja": "Hypergryph",
+      "ko": "Hypergryph"
     },
-    "musicFile": "music/Secret Escape (Instrumental).flac",
-    "coverImage": "cover/secret_escape.jpg",
+    "musicFile": "music/01. 塞壬唱片-MSR - Slowly Flow, Hearthlight Glow.flac",
+    "coverImage": "cover/slowly_flow, hearthlight_glow.jpg",
     "default": true,
     "default_bg": 2,
-    "mv": "mv/Secret_Escape.webm",
+    "mv": "mv/Slowly Flow, Hearthlight Glow.webm",
     "subtitle": {
-      "ja": "",
+      "ja": "01. 塞壬唱片-MSR - Slowly Flow, Hearthlight Glow.srt",
       "ko": ""
     }
   }
