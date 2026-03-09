@@ -9,13 +9,146 @@
       "ko": "doremi_(doremi4704)"
     },
     "musicFile": "music/01.『タイトルコール』.mp3",
-    "coverImage": "cover/secret_escape.jpg",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
     "default": true,
     "default_bg": 2,
-    "mv": "mv/Secret_Escape.webm",
+    "mv": "mv/Blue Archive Hina ASMR.webm",
     "subtitle": {
       "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
       "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
     },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/02.『シャーレをお手伝い』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
+    },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/03.『風紀委員会をお手伝い』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
+    },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/04.『不慣れなマッサージでも』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
+    },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/05.『ぎこちないシャンプー』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
+    },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/06.『かき氷はドライヤーの後で』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
+    },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/07.ボーナストラック『二度寝用15分アラーム』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
+  },
+  {
+    "title": {
+      "ja": "Blua Archive-Hina ASMR",
+      "ko": ""
+    },
+    "artist": {
+      "ja": "doremi_(doremi4704)",
+      "ko": "doremi_(doremi4704)"
+    },
+    "musicFile": "music/08.ボーナストラック『二度寝用15分アラーム(アラーム音無し)』.mp3",
+    "coverImage": "cover/hina_asmr-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Blue Archive Hina ASMR.webm",
+    "subtitle": {
+      "ja": "subtitle/01. 塞壬唱片-MSR - Secret Escape.lrc",
+      "ko": ""
+    }
   }
 ]
