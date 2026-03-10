@@ -1,1 +1,21 @@
-
+[
+  {
+    "title": {
+      "ja": "Độ Ta Chứ Không Độ Tày",
+      "ko": "Độ Ta Chứ Không Độ Tày"
+    },
+    "artist": {
+      "ja": "chịu chết",
+      "ko": "chịu chết"
+    },
+    "musicFile": "music/mohihi.mp3",
+    "coverImage": "cover/domixi-Cover.jpg",
+    "default": true,
+    "default_bg": 2,
+    "mv": "mv/Secret_Escape.webm",
+    "subtitle": {
+      "ja": "subtitle/mohihi.srt",
+      "ko": ""
+    }
+  }
+]
